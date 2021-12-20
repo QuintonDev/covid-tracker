@@ -66,7 +66,7 @@ body {
 
 .logo {
     color: var(--color-txt);
-    font-size: 2rem;
+    font-size: 1.2rem;
     font-weight: 900;
 }
 
@@ -236,7 +236,7 @@ body {
 
 .count-info span {
     display: inherit;
-    margin-top: 14px;
+    margin-top: 4px;
     text-transform: uppercase;
     font-weight: 700;
 }
